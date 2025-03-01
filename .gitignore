@@ -5,7 +5,7 @@
 
 /mongo
 
-# Logs
+# Logs de algo
 logs
 *.log
 npm-debug.log*
