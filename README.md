@@ -22,4 +22,4 @@ docker-compose up -d
 * MongoDB
 * Nest# nest-pokedex
 
-### fin
+### fin!
