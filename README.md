@@ -21,3 +21,5 @@ docker-compose up -d
 ## Stack usado
 * MongoDB
 * Nest# nest-pokedex
+
+### fin
